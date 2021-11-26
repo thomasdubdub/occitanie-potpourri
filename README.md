@@ -1,10 +1,11 @@
 # Occitanie Potpourri
 
 One of my guilty pleasures is to extract, analyze and visualize open data of my region.
-I will therefore put in this repository all notebooks based on French open data with a focus on the French region Occitanie, and the city of Toulouse.
+I will therefore put in this repository all notebooks based on French open data with a focus on the French region Occitanie, the French department Haute-Garonne and the French city Toulouse.
 
 <br/>
 Example 1: plot the number of historical monuments in each town (commune) of Occitanie (choropleth)
+<br/>
 
 ![occitanie-mh](occitanie-mh.png)
 
