@@ -23,6 +23,12 @@ Example 3: plot districts of Toulouse based on the ratio of graduated residents 
 
 <br/>
 
+Example 4: first round of French Présidentielles 2022 in Toulouse
+
+![tlse2022](toulouse-2022-premier-tour.png)
+
+<br/>
+
 ## Running the tests
 
 Run the notebook occitanie_mh to visualize historical monuments in Occitanie
@@ -43,6 +49,7 @@ This code was tested with following versions:
 * occitanie_mh: Python 3.9.4, geopandas 0.10.2, contextily 1.1.0
 * toulouse_water_system: Python 3.9.4, pandas 1.3.4, geopandas 0.10.2, contextily 1.1.0, shapely 1.7.1
 * toulouse_bac5: Python 3.9.4, geopandas 0.10.2
+* toulouse_2022_premier_tour : Python 3.9.4, geopandas 0.10.2
 
 
 ## Authors
